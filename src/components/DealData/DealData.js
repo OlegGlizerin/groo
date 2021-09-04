@@ -6,9 +6,6 @@ import { DealSection } from '../DealSection/DealSection';
 import { Pricing } from '../Pricing/Pricing';
 
 function DealData({item}) {
-   const [allNotifications, setAllNotifications] = useState([]);
-   const [profileImages, setProfileImages] = useState([]);
-
    return (
          <DealDataStyled>
            <div class="title">

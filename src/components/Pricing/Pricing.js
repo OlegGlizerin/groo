@@ -3,9 +3,6 @@ import React, { useState, useEffect, useCallback, useLayoutEffect } from "react"
 import { PricingStyled } from './PricingStyled';
 
 function Pricing({item}) {
-   const [allNotifications, setAllNotifications] = useState([]);
-   const [profileImages, setProfileImages] = useState([]);
-
    return (
          <PricingStyled>
            <div class="meta">
