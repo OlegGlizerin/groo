@@ -1,0 +1,89 @@
+<channel>
+	<title>Groo</title>
+	<link>https://www.groo.co.il</link>
+	<description>Groo's products</description>
+	<item>
+		<g:id>1029485</g:id>
+		<g:title>מעשנת פחמים ביתית</g:title>
+		<g:description>מעשנת ההופכת גם לגריל פחמים וכוללת מד טמפרטורה מובנה, שתי דלתות שירות ופתח אוורור. </g:description>
+		<g:link>https://www.groo.co.il/deal/charcoal-smoker/1029485</g:link>
+		<g:image_link>https://media.groo.co.il/_media/media/29689/273127.jpg?t=1574080570</g:image_link>
+		<g:additional_image_link/>
+		<g:availability>In Stock</g:availability>
+		<g:price>149.00 ILS</g:price>
+		<g:sale_price/>
+		<g:sale_price_effective_date/>
+		<g:product_type>לבית ולגן</g:product_type>
+		<g:brand>GROO</g:brand>
+		<g:adult>No</g:adult>
+		<g:condition>New</g:condition>
+		<g:identifier_exists>no</g:identifier_exists>
+		<g:shipping>
+			<g:country>IL</g:country>
+			<g:region/>
+			<g:service>שליח עד הבית</g:service>
+			<g:price>39</g:price>
+		</g:shipping>
+		<g:custom_label_0>לבית ולגן</g:custom_label_0>
+		<g:custom_label_1>גריל גז, מנגל ומעשנת בשר</g:custom_label_1>
+		<g:custom_label_2>176.92307692308</g:custom_label_2>
+		<g:custom_label_3>בלאק פריידי נובמבר19- תגית</g:custom_label_3>
+		<g:custom_label_4/>
+	</item>
+	<item>
+		<g:id>1029492</g:id>
+		<g:title>10 חטיפי יאמיז לחתולים</g:title>
+		<g:description>מארז חטיפי עוף ודגים לחתולים מבשר אמיתי.</g:description>
+		<g:link>https://www.groo.co.il/deal/yummiz-treats-for-cats/1029492</g:link>
+		<g:image_link>https://media.groo.co.il/_media/media/29696/273303.jpg?t=1574080570</g:image_link>
+		<g:additional_image_link/>
+		<g:availability>In Stock</g:availability>
+		<g:price>179.00 ILS</g:price>
+		<g:sale_price>99.00 ILS</g:sale_price>
+		<g:sale_price_effective_date>2019-06-12T21:00:00Z/2021-06-09T21:00:00Z</g:sale_price_effective_date>
+		<g:product_type>חיות מחמד</g:product_type>
+		<g:brand>GROO</g:brand>
+		<g:adult>No</g:adult>
+		<g:condition>New</g:condition>
+		<g:identifier_exists>no</g:identifier_exists>
+		<g:shipping>
+			<g:country>IL</g:country>
+			<g:region/>
+			<g:service>דואר רשום (לכל שובר)</g:service>
+			<g:price>0</g:price>
+		</g:shipping>
+		<g:custom_label_0>חיות מחמד</g:custom_label_0>
+		<g:custom_label_1>חטיפים וצעצועים</g:custom_label_1>
+		<g:custom_label_2>14.846153846154</g:custom_label_2>
+		<g:custom_label_3>משלוח חינם-תגית</g:custom_label_3>
+		<g:custom_label_4/>
+	</item>
+	<item>
+		<g:id>1029578</g:id>
+		<g:title>6 מגבות פנים 100% כותנה</g:title>
+		<g:description>6 מגבות כותנה עבות ונעימות למגע, בעלות כושר ספיגה גבוה.</g:description>
+		<g:link>https://www.groo.co.il/deal/cotton-face-towels/1029578</g:link>
+		<g:image_link>https://media.groo.co.il/_media/media/29782/273661.jpg?t=1574080570</g:image_link>
+		<g:additional_image_link/>
+		<g:availability>In Stock</g:availability>
+		<g:price>59.00 ILS</g:price>
+		<g:sale_price/>
+		<g:sale_price_effective_date/>
+		<g:product_type>לבית ולגן</g:product_type>
+		<g:brand>GROO</g:brand>
+		<g:adult>No</g:adult>
+		<g:condition>New</g:condition>
+		<g:identifier_exists>no</g:identifier_exists>
+		<g:shipping>
+			<g:country>IL</g:country>
+			<g:region/>
+			<g:service>צ'יטה שופס</g:service>
+			<g:price>0</g:price>
+		</g:shipping>
+		<g:custom_label_0>לבית ולגן</g:custom_label_0>
+		<g:custom_label_1>מגבות וחלוקים</g:custom_label_1>
+		<g:custom_label_2>58.965811965812</g:custom_label_2>
+		<g:custom_label_3>משלוח חינם-תגית</g:custom_label_3>
+		<g:custom_label_4/>
+	</item>
+</channel>
